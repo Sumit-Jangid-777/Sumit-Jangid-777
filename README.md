@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit-Jangid-777
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ai and data science
+- 🌱 I’m currently learning AI and ML
 - 📫 Email-ai.ds.sumit@gmail.com
 
 <!---
